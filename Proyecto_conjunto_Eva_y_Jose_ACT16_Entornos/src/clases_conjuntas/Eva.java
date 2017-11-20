@@ -1,6 +1,6 @@
 package clases_conjuntas;
 
-public class EvaJose {
+public class Eva {
 
 	public static void main(String[] args) {
 		System.out.println("Este es el texto por defecto de este proyecto. "
